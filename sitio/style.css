@@ -264,6 +264,7 @@
     .links,
     .ayuda {
         padding: 20px;
+        
     }
 
     .links ul,
@@ -290,6 +291,11 @@
     .ayuda {
         display: flex;
         align-items: center;
+        height: 180px;
+    }
+    .ayuda h3 {
+        text-align: left;
+        
     }
 
     .redes {
